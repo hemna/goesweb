@@ -6,4 +6,4 @@ def main():
     return "ASS"
 
 if __name__ == '__main__':
-    app.run(host="localhost", port=80, debug=True)
+    app.run(port=80, debug=True)
